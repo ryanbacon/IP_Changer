@@ -1,1 +1,1 @@
-netsh int ipv4 set address name="WiFi" source=static address=10.92.93.7 mask=255.0.0.0 gateway=
+netsh int ipv4 set address name="Wi-Fi" source=static address=10.92.93.7 mask=255.0.0.0 gateway=
